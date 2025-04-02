@@ -1,0 +1,30 @@
+
+button {
+  margin: 3px;
+  border-radius: 10px;
+}
+.counter {
+  border: 2px solid grey;
+  border-radius: 10px;
+  /* padding-bottom: 10px; */
+  padding: 15px;
+}
+.counter h2{
+  text-align: center;
+}
+
+.btn1 {
+  background-color: green;
+  color: white;
+  border: none;
+}
+.btn2 {
+  background-color: blue;
+  color: white;
+  border: none;
+}
+.btn3 {
+  background-color: red;
+  color: white;
+  border: none;
+}
